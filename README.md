@@ -21,7 +21,7 @@ Installations are included in the notebook
 
 ## Usage
 
-[![Open code in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/en-ashay/SSGAN-for-Liver-Tumor-Classification/blob/main/SSGAN_for_Liver_Tumor_Classification.ipynb)
+Click on the button to open the code [![Open code in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/en-ashay/SSGAN-for-Liver-Tumor-Classification/blob/main/SSGAN_for_Liver_Tumor_Classification.ipynb)
 
 
 
