@@ -21,6 +21,10 @@ Installations are included in the notebook
 
 ## Usage
 
+[![Open code in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/en-ashay/SSGAN-for-Liver-Tumor-Classification/blob/main/SSGAN_for_Liver_Tumor_Classification.ipynb)
+
+
+
 The code for this project is available in the code directory, which includes a Jupyter notebook `SSGAN_for_Liver_Tumor_Classification.ipynb` that contains all the code for training and testing the SSGAN model, as well as the preprocessed dataset and trained models for reproducibility.
 
 We also provide a results.json file that contains all the evaluation metrics and results for our SSGAN model, including accuracy, precision, recall, and F1-score. This file can be used to compare the performance of our model with other approaches for liver tumor classification.
