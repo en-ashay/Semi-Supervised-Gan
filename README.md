@@ -21,7 +21,10 @@ Installations are included in the notebook
 
 ## Usage
 
-Click on the button to open the code [![Open code in Colab](https://colab.research.google.com/drive/1HgFuf2rzUtG1YZsQ7Iv3YH_9vN8nQ1CT?usp=sharing)
+Click on the button to open the code 
+<a href="https://colab.research.google.com/drive/1HgFuf2rzUtG1YZsQ7Iv3YH_9vN8nQ1CT?usp=sharing" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 
 
